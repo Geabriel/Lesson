@@ -1,0 +1,17 @@
+D:\KIN\DemoValidators\DemoValidators\bin\Debug\DemoValidators.exe.config
+D:\KIN\DemoValidators\DemoValidators\bin\Debug\DemoValidators.exe
+D:\KIN\DemoValidators\DemoValidators\bin\Debug\DemoValidators.pdb
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators.csprojResolveAssemblyReference.cache
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\App.g.cs
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators_MarkupCompile.cache
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators_MarkupCompile.lref
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\MainWindow.baml
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators.g.resources
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators.Properties.Resources.resources
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators.csproj.GenerateResource.Cache
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators.exe
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\DemoValidators.pdb
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\App.baml
+D:\KIN\DemoValidators\DemoValidators\obj\Debug\Themes\Styles.baml
