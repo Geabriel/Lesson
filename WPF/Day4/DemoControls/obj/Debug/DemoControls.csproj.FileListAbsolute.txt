@@ -1,0 +1,14 @@
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\bin\Debug\DemoControls.exe.config
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\bin\Debug\DemoControls.exe
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\bin\Debug\DemoControls.pdb
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls.csprojResolveAssemblyReference.cache
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\MainWindow.g.cs
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\App.g.cs
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls_MarkupCompile.cache
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls_MarkupCompile.lref
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\MainWindow.baml
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls.g.resources
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls.Properties.Resources.resources
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls.csproj.GenerateResource.Cache
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls.exe
+c:\users\st\documents\visual studio 2015\Projects\Day4\DemoControls\obj\Debug\DemoControls.pdb
