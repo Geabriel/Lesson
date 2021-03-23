@@ -1,0 +1,6 @@
+D:\KIN\DemoTemplate\DemoMSSQL\DemoMSSQL\bin\Debug\DemoMSSQL.exe.config
+D:\KIN\DemoTemplate\DemoMSSQL\DemoMSSQL\bin\Debug\DemoMSSQL.exe
+D:\KIN\DemoTemplate\DemoMSSQL\DemoMSSQL\bin\Debug\DemoMSSQL.pdb
+D:\KIN\DemoTemplate\DemoMSSQL\DemoMSSQL\obj\Debug\DemoMSSQL.csprojResolveAssemblyReference.cache
+D:\KIN\DemoTemplate\DemoMSSQL\DemoMSSQL\obj\Debug\DemoMSSQL.exe
+D:\KIN\DemoTemplate\DemoMSSQL\DemoMSSQL\obj\Debug\DemoMSSQL.pdb
