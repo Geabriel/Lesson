@@ -1,0 +1,6 @@
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoPropviderFactory\bin\Debug\DemoPropviderFactory.exe.config
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoPropviderFactory\bin\Debug\DemoPropviderFactory.exe
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoPropviderFactory\bin\Debug\DemoPropviderFactory.pdb
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoPropviderFactory\obj\Debug\DemoPropviderFactory.csprojResolveAssemblyReference.cache
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoPropviderFactory\obj\Debug\DemoPropviderFactory.exe
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoPropviderFactory\obj\Debug\DemoPropviderFactory.pdb
