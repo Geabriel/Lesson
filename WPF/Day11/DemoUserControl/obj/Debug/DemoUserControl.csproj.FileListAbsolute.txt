@@ -1,0 +1,16 @@
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\bin\Debug\DemoUserControl.exe.config
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\bin\Debug\DemoUserControl.exe
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\bin\Debug\DemoUserControl.pdb
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\bin\Debug\PanalControls.dll
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\bin\Debug\PanalControls.pdb
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl.csprojResolveAssemblyReference.cache
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\MainWindow.g.cs
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\App.g.cs
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl_MarkupCompile.cache
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl_MarkupCompile.lref
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\MainWindow.baml
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl.g.resources
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl.Properties.Resources.resources
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl.csproj.GenerateResource.Cache
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl.exe
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoUserControl\obj\Debug\DemoUserControl.pdb
