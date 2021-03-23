@@ -1,0 +1,10 @@
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\bin\Debug\PanalControls.dll
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\bin\Debug\PanalControls.pdb
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\PanalControls.csprojResolveAssemblyReference.cache
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\BrouserPanal.g.cs
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\PanalControls_MarkupCompile.cache
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\PanalControls_MarkupCompile.lref
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\BrouserPanal.baml
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\PanalControls.g.resources
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\PanalControls.dll
+c:\users\st\documents\visual studio 2015\Projects\Day13\PanalControls\obj\Debug\PanalControls.pdb
