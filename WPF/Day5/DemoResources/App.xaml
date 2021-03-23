@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="DemoResources.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:DemoResources"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Thickness x:Key="marginControl">5</Thickness>
+    </Application.Resources>
+</Application>
