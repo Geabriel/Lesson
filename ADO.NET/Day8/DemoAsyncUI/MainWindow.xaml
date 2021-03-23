@@ -1,0 +1,44 @@
+﻿<Window
+    x:Class="DemoAsyncUI.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:DemoAsyncUI"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Demo Async UI"
+    Width="350"
+    Height="365.5"
+    mc:Ignorable="d">
+
+    <Window.DataContext>
+        <local:TeamViewModel/>
+    </Window.DataContext>
+    
+    
+    <StackPanel>
+        <Button
+            Margin="5"
+            Click="btnStart_Click"
+            Content="Start" />
+        <ProgressBar
+            x:Name="pbProcess"
+            MinHeight="25"
+            Margin="5" />
+        <Label
+            x:Name="lbCounter"
+            Margin="5"
+            Content="0" />
+
+        <Button
+            Margin="5"
+            Click="btnStartPing_Click"
+            Content="Start Ping" />
+        <Label
+            x:Name="lbPingTime"
+            Margin="5"
+            Content="0" />
+
+        <DataGrid ItemsSource="{Binding Teams}"/>
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,14 @@
+D:\KIN\DemoAsyncUI\DemoAsyncUI\bin\Debug\DemoAsyncUI.exe.config
+D:\KIN\DemoAsyncUI\DemoAsyncUI\bin\Debug\DemoAsyncUI.exe
+D:\KIN\DemoAsyncUI\DemoAsyncUI\bin\Debug\DemoAsyncUI.pdb
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\App.g.cs
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\DemoAsyncUI_MarkupCompile.cache
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\DemoAsyncUI_MarkupCompile.lref
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\MainWindow.baml
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\DemoAsyncUI.g.resources
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\DemoAsyncUI.Properties.Resources.resources
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\DemoAsyncUI.csproj.GenerateResource.Cache
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\DemoAsyncUI.exe
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\DemoAsyncUI.pdb
+D:\KIN\DemoAsyncUI\DemoAsyncUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
