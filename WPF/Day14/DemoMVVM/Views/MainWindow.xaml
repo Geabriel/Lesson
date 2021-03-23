@@ -1,0 +1,40 @@
+﻿<Window
+    x:Class="DemoMVVM.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ViewModel="clr-namespace:DemoMVVM.ViewModels"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:DemoMVVM"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Demo MVVM"
+    Width="525"
+    Height="350"
+    mc:Ignorable="d">
+    <Window.DataContext>
+        <ViewModel:OrderViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <DataGrid Margin="5" ItemsSource="{Binding Orders}" SelectedItem="{Binding DeleteOrder}" />
+        <StackPanel Grid.Column="1">
+            <Label FontWeight="Bold">Pizza NAME</Label>
+            <TextBox Margin="5" Text="{Binding NewOrder.Name, UpdateSourceTrigger=PropertyChanged}" />
+            <Label FontWeight="Bold">Pizza COST</Label>
+            <TextBox Margin="5" Text="{Binding NewOrder.Cost, UpdateSourceTrigger=PropertyChanged}" />
+            <Label FontWeight="Bold">Date ORDER</Label>
+            <DatePicker Margin="5" SelectedDate="{Binding NewOrder.Date, UpdateSourceTrigger=PropertyChanged}" />
+            <StackPanel Orientation="Horizontal">
+                <Button
+                    Margin="5"
+                    Padding="10,0"
+                    Command="{Binding AddOrderCommand}"
+                    Content="Add" />
+                <Button Margin="5" Content="Delete" Command="{Binding DeleteOrderCommand}" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
