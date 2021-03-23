@@ -1,0 +1,43 @@
+﻿<Window
+    x:Class="DemoRandomUser.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:entities="clr-namespace:RandomUserLibrary.Entities;assembly=RandomUserLibrary"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModels="clr-namespace:DemoRandomUser.ViewModels"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Window.DataContext>
+        <viewModels:UserViewModel />
+    </Window.DataContext>
+
+    <Window.Resources>
+        <DataTemplate x:Key="UserTemplate" DataType="entities:UserInfo">
+            <StackPanel>
+                <Image Source="{Binding Foto}" />
+                <Label Content="{Binding LastName}" />
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+
+    <ListBox ItemTemplate="{StaticResource UserTemplate}" ItemsSource="{Binding Users}" Margin="0,0,-32,-115" />
+
+    <!--<DataGrid AutoGenerateColumns="False" ItemsSource="{Binding Users}">
+        <DataGrid.Columns>
+            <DataGridTextColumn Binding="{Binding LastName}" />
+            <DataGridTextColumn Binding="{Binding FirstName}" />
+            <DataGridTemplateColumn>
+                <DataGridTemplateColumn.CellTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding Foto}" />
+                    </DataTemplate>
+                </DataGridTemplateColumn.CellTemplate>
+
+            </DataGridTemplateColumn>
+        </DataGrid.Columns>
+    </DataGrid>-->
+
+</Window>
