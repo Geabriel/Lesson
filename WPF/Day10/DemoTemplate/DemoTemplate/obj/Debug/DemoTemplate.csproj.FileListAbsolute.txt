@@ -1,0 +1,14 @@
+D:\KIN\DemoTemplate\DemoTemplate\bin\Debug\DemoTemplate.exe.config
+D:\KIN\DemoTemplate\DemoTemplate\bin\Debug\DemoTemplate.exe
+D:\KIN\DemoTemplate\DemoTemplate\bin\Debug\DemoTemplate.pdb
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.csprojResolveAssemblyReference.cache
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\App.g.cs
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate_MarkupCompile.cache
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate_MarkupCompile.lref
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\MainWindow.baml
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.g.resources
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.Properties.Resources.resources
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.csproj.GenerateResource.Cache
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.exe
+D:\KIN\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.pdb
