@@ -1,0 +1,9 @@
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\bin\Debug\DemoAsync.exe.config
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\bin\Debug\DemoAsync.exe
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\bin\Debug\DemoAsync.pdb
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\obj\Debug\DemoAsync.csprojResolveAssemblyReference.cache
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\obj\Debug\DemoAsync.MainForm.resources
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\obj\Debug\DemoAsync.Properties.Resources.resources
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\obj\Debug\DemoAsync.csproj.GenerateResource.Cache
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\obj\Debug\DemoAsync.exe
+D:\KIN\DemoTemplate\DemoPropviderFactory\DemoAsync\obj\Debug\DemoAsync.pdb
