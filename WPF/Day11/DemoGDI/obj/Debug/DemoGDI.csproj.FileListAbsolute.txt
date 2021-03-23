@@ -1,0 +1,9 @@
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\bin\Debug\DemoGDI.exe.config
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\bin\Debug\DemoGDI.exe
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\bin\Debug\DemoGDI.pdb
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\obj\Debug\DemoGDI.csprojResolveAssemblyReference.cache
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\obj\Debug\DemoGDI.MainForm.resources
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\obj\Debug\DemoGDI.Properties.Resources.resources
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\obj\Debug\DemoGDI.csproj.GenerateResource.Cache
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\obj\Debug\DemoGDI.exe
+c:\users\st\documents\visual studio 2015\Projects\Day13\DemoGDI\obj\Debug\DemoGDI.pdb
