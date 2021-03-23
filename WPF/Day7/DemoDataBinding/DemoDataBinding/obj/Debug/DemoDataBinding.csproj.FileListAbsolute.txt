@@ -1,0 +1,14 @@
+D:\KIN\DemoDataBinding\DemoDataBinding\bin\Debug\DemoDataBinding.exe.config
+D:\KIN\DemoDataBinding\DemoDataBinding\bin\Debug\DemoDataBinding.exe
+D:\KIN\DemoDataBinding\DemoDataBinding\bin\Debug\DemoDataBinding.pdb
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\App.g.cs
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\DemoDataBinding_MarkupCompile.cache
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\DemoDataBinding_MarkupCompile.lref
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\MainWindow.baml
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\DemoDataBinding.g.resources
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\DemoDataBinding.Properties.Resources.resources
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\DemoDataBinding.csproj.GenerateResource.Cache
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\DemoDataBinding.exe
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\DemoDataBinding.pdb
+D:\KIN\DemoDataBinding\DemoDataBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs

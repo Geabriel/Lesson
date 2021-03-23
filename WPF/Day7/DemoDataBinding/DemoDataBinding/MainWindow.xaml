@@ -1,0 +1,95 @@
+﻿<Window
+    x:Class="DemoDataBinding.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Entities="clr-namespace:DemoDataBinding.Model.Entities"
+    xmlns:Repository="clr-namespace:DemoDataBinding.Model.Repositories"
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:DemoDataBinding"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Shop Phone"
+    Width="400"
+    Height="300"
+    mc:Ignorable="d">
+    <Window.Resources>
+        <Entities:PhoneInfo
+            x:Key="PhoneInfo"
+            Date="12.10.2018"
+            Model="New Phone" />
+        <Repository:PhoneRepository x:Key="PhoneRepository" />
+    </Window.Resources>
+    <Grid x:Name="Layout" DataContext="{Binding ElementName=dgPhones, Path=SelectedItem}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Label Content="Phone Model:" />
+        <TextBox
+            Grid.Column="1"
+            Margin="5"
+            Text="{Binding Model, UpdateSourceTrigger=PropertyChanged}" />
+        <Label Grid.Row="1" Content="Phone Price:" />
+        <TextBox
+            Grid.Row="1"
+            Grid.Column="1"
+            Margin="5"
+            Text="{Binding Price, UpdateSourceTrigger=PropertyChanged}" />
+        <Label Grid.Row="2" Content="Start Date:" />
+        <TextBox
+            Grid.Row="2"
+            Grid.Column="1"
+            Margin="5"
+            Text="{Binding Date, UpdateSourceTrigger=PropertyChanged}" />
+        <DataGrid
+            AutoGenerateColumns="False"
+            x:Name="dgPhones"
+            Grid.Row="3"
+            Grid.ColumnSpan="2"
+            Margin="5"
+            ItemsSource="{Binding Source={StaticResource PhoneRepository}, Path=Phones}" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Header="MODEL" Binding="{Binding Model}"/>
+                <DataGridTextColumn Header="PRICE" Binding="{Binding Price}"/>
+                <DataGridTextColumn Header="DATE" Binding="{Binding Date, StringFormat=\{0:dd.MM.yyyy\}}"/>
+            </DataGrid.Columns>
+            
+        </DataGrid>
+        <StackPanel
+            Grid.Row="4"
+            Grid.ColumnSpan="2"
+            Orientation="Horizontal">
+            <Button
+                Margin="5"
+                Click="Show_Click"
+                Content="Show Object" />
+            <Button
+                Margin="5"
+                Click="Edit_Click"
+                Content="Edit Object" />
+            <Button
+                Margin="5"
+                Click="GetCount_Click"
+                Content="Get Count" />
+            <Button
+                Margin="5"
+                Click="GetSelect_Click"
+                Content="Get Select" />
+            <Button
+                Margin="5"
+                Click="AddPhone_Click"
+                Content="Add Phone" />
+            <Label
+                Margin="5"
+                Background="Red"
+                Content="{Binding Source={StaticResource PhoneRepository}, Path=CountPhones}" />
+        </StackPanel>
+    </Grid>
+</Window>
