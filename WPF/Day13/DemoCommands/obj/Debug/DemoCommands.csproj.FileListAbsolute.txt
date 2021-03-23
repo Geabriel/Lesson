@@ -1,0 +1,30 @@
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\bin\Debug\DemoCommands.exe.config
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\bin\Debug\DemoCommands.exe
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\bin\Debug\DemoCommands.pdb
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\App.g.cs
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\DemoCommands_MarkupCompile.cache
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\DemoCommands_MarkupCompile.lref
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\MainWindow.baml
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\DemoCommands.g.resources
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\DemoCommands.Properties.Resources.resources
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\DemoCommands.csproj.GenerateResource.Cache
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\DemoCommands.exe
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\DemoCommands.pdb
+D:\KIN\DemoTemplate\DemoCommands\DemoCommands\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\bin\Debug\DemoCommands.exe.config
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\bin\Debug\DemoCommands.exe
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\bin\Debug\DemoCommands.pdb
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands.csprojAssemblyReference.cache
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\MainWindow.g.cs
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\App.g.cs
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands_MarkupCompile.cache
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands_MarkupCompile.lref
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\MainWindow.baml
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands.g.resources
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands.Properties.Resources.resources
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands.csproj.GenerateResource.cache
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands.csproj.CoreCompileInputs.cache
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands.exe
+E:\!!!DATA\4. WPF\Day13 Commands\DemoCommands\DemoCommands\obj\Debug\DemoCommands.pdb
