@@ -1,0 +1,14 @@
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\bin\Debug\DemoMVVM.exe.config
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\bin\Debug\DemoMVVM.exe
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\bin\Debug\DemoMVVM.pdb
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\Views\MainWindow.g.cs
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\App.g.cs
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM_MarkupCompile.cache
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM_MarkupCompile.lref
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\Views\MainWindow.baml
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.g.resources
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.Properties.Resources.resources
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.csproj.GenerateResource.Cache
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.exe
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\DemoMVVM.pdb
+D:\KIN\DemoTemplate\DemoMVVM\DemoMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
